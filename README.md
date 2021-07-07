@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ijustwannagrill
-- 👀 I’m interested in poorly made scratch HTML ports
-- 🌱 I’m currently learning how to be lazier
-- 📫 How to reach me-- mynamecouldchange@gmail.com
+
